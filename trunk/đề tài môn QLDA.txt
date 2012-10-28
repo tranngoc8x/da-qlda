@@ -1,0 +1,41 @@
+Dự án xây dựng phần mềm quản lý bán hàng công ty
+Dự án xây dựng phần mềm quản lý cửa hàng sách
+Dự án xây dựng phần mềm quản lý ký túc xá
+Dự án xây dựng phần mềm quản lý khách sạn
+Dự án xây dựng phần mềm quản lý cửa hàng sách
+Dự án xây dựng phần mềm quản lí chuỗi siêu thị
+Dự án xây dựng hệ thống thương mại điện tử
+Dự án xây dựng phần mềm quản lý hệ thống Website cho trường đại học
+Dự án xây dựng phần mềm quản lý điểm sinh viên
+Dự án xây dựng Webstie thương mại điện tử
+Dự án xây dựng phần mềm quản lý sinh viên
+Quản lý dự án Phim
+Dự án xây dựng website bán hàng máy tính
+Dự án xây dựng phần mềm quản lý bán hàng siêu thị
+Dự án xây dựng phần mềm quản lý bán vé máy bay
+Dự án xây dựng phần mềm quản lý nhân sự
+Dự án xây dựng phần mềm quản lý bán vé xe bus
+Dự án xây dựng phần mềm quản lý cửa hàng sách
+Dự án xây dựng phần mềm quản lý sinh viên
+Dự án xây dựng phần  mềm quản lý thư viện
+Dự án xây dựng phần mềm quản lý luân chuyển nhân viên
+Dự án xây dựng phần mềm quản lý khách sạn
+Dự án xây dựng phần mềm quản lý khách sạn
+Dự án xây dựng phần mềm quản lý thư viện
+Dự án xây dựng phần mềm quản lý nhân sự
+Dự án xây dựng phần mềm quản lý bán vé máy bay
+Dự án xây dựng phần mềm quản lí kho.
+Dự án xây dựng phần mềm quản lý điểm học sinh
+Dự án xây dựng phần mềm quản lí khách sạn
+Dự án xây dựng Hệ thống quản lý đào tạo E-Education
+Dự án xây dựng phần mềm quản lý khách sạn.
+Quản trị dự án phần mềm – Dự án xây dựng Website bán hàng máy tính cho công ty Hoàng Anh
+
+Nhận xét về đồ án:
+
+Điểm thực tế cao nhất là 7 điểm (1 số bạn được cộng thêm điểm trình bày seminar)
+Rất nhiều bạn copy bài của nhau nhưng nặng nhất tôi mới trừ điểm (các bạn xem file)
+Đây là môn SPM ko phải phân tích thiết kế hệ thống những bạn nào làm theo kiểu PTTKHT -> thi lại
+Tài liệu các bạn trình bày rất cẩu thả, nửa tiếng Anh nửa tiếng Việt, font chữ cũng ko chỉnh lại.
+Nếu đánh giá đúng với bản đồ án mà các bạn đã nộp thì số lượng phải thi lại gấp 2 lần so với bảng điểm này.
+Mong là các bạn thi lại tránh lỗi đã mắc ở trên.
